@@ -1,0 +1,1 @@
+Largest Figure: Circle with parameters [25.0] and measure 1963.50
